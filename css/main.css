@@ -1,6 +1,5 @@
 html {
   box-sizing: border-box;
-  background color: #fff;
 }
 
 *, *::before, *::after {
@@ -41,6 +40,7 @@ nav {
 body {
   margin: 0;
   padding: 0;
+  background-color: #fff;
 }
 
 li {
