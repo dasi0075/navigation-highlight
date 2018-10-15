@@ -1,9 +1,9 @@
-  html {
-    box-sizing: border-box;
+html {
+  box-sizing: border-box;
   }
 
-  *, *::before, *::after {
-    box-sizing: inherit;
+*, *::before, *::after {
+  box-sizing: inherit;
   }
 
 h1 {
@@ -15,14 +15,14 @@ h1 {
 .paragraph {
   font-family: "Sigmar One", cursive;
   color: #b20953;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
 }
 
 ul li a {
   display: inline-block;
   padding: .75rem;
   background-color: #b2a212;
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
   border-radius: .5em;
 }
 
@@ -41,7 +41,7 @@ a {
 
 .berries {
   text-align: center;
-  font-size: 3.125rem;
+  font-size: 3rem;
   margin: 0;
   padding: 0;
   margin-left: .80em;
