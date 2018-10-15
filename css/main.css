@@ -41,7 +41,7 @@ a {
 
 .berries {
   text-align: center;
-  font-size: 60px;
+  font-size: 50px;
   margin: 0;
   padding: 0;
   margin-left: .80em;
@@ -67,4 +67,8 @@ h2 {
   color: #b20953;
   font-size: 30px;
 }
+
+.imagegrapes .imageredcurrant {
+  max-width: 100%;
+  width: inherit;
 }
