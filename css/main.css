@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background color: #fff;
 }
 
 *, *::before, *::after {
@@ -65,13 +66,14 @@ a:hover {
 
 header {
   background-color: #ffe500;
-  padding-bottom: .2em;
+  padding-bottom: .1em;
+  margin: 0;
 }
 
 footer {
   text-align: center;
   background-color: #ffe500;
-  padding: .75em;
+  padding: .3em;
 }
 
 h2 {
