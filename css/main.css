@@ -15,7 +15,7 @@ h1 {
 .paragraph {
   font-family: "Sigmar One", cursive;
   color: #b20953;
-  font-size: 40px;
+  font-size: 2.5rem;
 }
 
 ul li a {
@@ -41,7 +41,7 @@ a {
 
 .berries {
   text-align: center;
-  font-size: 50px;
+  font-size: 3.125rem;
   margin: 0;
   padding: 0;
   margin-left: .80em;
@@ -65,12 +65,12 @@ footer {
 h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
-  font-size: 30px;
+  font-size: 1.75rem;
 }
 
-.imagegrapes .imageredcurrant {
-  max-width: 100%;
-  width: inherit;
+img {
+  width: 100%;
+  display: block;
 }
 
 .current {
