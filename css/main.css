@@ -8,7 +8,7 @@
 
 h1 {
   font-family: "Sigmar One", cursive;
-  color: #cc1465;
+  color: #b20953;
 }
 
 ul li a {
@@ -34,4 +34,12 @@ a {
 
 .berries {
   text-align: center;
+  font-size: 60px;
+  margin: 0;
+  padding: 0;
+  margin-left: .80em;
+}
+
+a:hover {
+  background-color: #cc1465;
 }
