@@ -26,6 +26,11 @@ ul li a {
   border-radius: .5em;
 }
 
+main h2 {
+  font-family: Georgia, serif;
+  color: #2f2d13;
+}
+
 nav {
   text-align: center;
 }
