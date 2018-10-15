@@ -1,15 +1,16 @@
 html {
   box-sizing: border-box;
-  }
+}
 
 *, *::before, *::after {
   box-sizing: inherit;
-  }
+}
 
 h1 {
   font-family: "Sigmar One", cursive;
   line-height: 1.5;
   color: #b20953;
+  padding: 0;
 }
 
 .paragraph {
@@ -20,7 +21,7 @@ h1 {
 
 ul li a {
   display: inline-block;
-  padding: .75rem;
+  padding: .4rem;
   background-color: #b2a212;
   font-family: Georgia, serif;
   border-radius: .5em;
@@ -33,6 +34,12 @@ main h2 {
 
 nav {
   text-align: center;
+  padding: 0;
+}
+
+body {
+   margin: 0;
+   padding: 0;
 }
 
 li {
@@ -49,7 +56,7 @@ a {
   font-size: 3rem;
   margin: 0;
   padding: 0;
-  margin-left: .80em;
+  margin-left: .8em;
 }
 
 a:hover {
