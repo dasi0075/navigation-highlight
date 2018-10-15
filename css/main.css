@@ -8,4 +8,30 @@
 
 h1 {
   font-family: "Sigmar One", cursive;
+  color: #cc1465;
+}
+
+ul li a {
+  padding: .75rem;
+  background-color: #b2a212;
+  font-family: "Georgia", serif;
+  line-height: 1.5;
+  border-radius: .5em;
+}
+
+nav {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  text-decoration-line: none;
+  color: #fff;
+}
+
+.berries {
+  text-align: center;
 }
