@@ -20,6 +20,11 @@ h1 {
 .paragraph {
   font-family: "Sigmar One", cursive;
   color: #b20953;
+  padding-top: 0;
+}
+
+.index {
+  margin-bottom: 0;
 }
 
 ul li a {
@@ -75,7 +80,7 @@ a:hover {
 
 header {
   background-color: #ffe500;
-  margin-bottom: 3em;
+  margin-bottom: 2em;
 }
 
 footer {
@@ -102,10 +107,10 @@ img {
 
 .second {
   margin-top: 0;
-  padding-bottom: .4em;
+  padding-bottom: .5em;
 }
 
 .berries-second {
   margin-bottom: 2em;
-  padding-bottom: .3em;
+  padding-bottom: .4em;
 }
