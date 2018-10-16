@@ -28,7 +28,7 @@ ul li a {
 }
 
 main h2 {
-  color: #2f2d13;
+  color: #b20953;;
   font-size: 1.875rem;
 }
 
@@ -101,10 +101,10 @@ img {
   background-color: #b20953;
 }
 
-main h2 {
-  color: #b20953;
-}
-
 .second {
   margin-top: 0;
+}
+
+.berries-second {
+  margin-top: .3em;
 }
