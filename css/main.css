@@ -11,7 +11,7 @@ html {
 h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
-  padding: .4em;
+  padding: 0;
   margin: 0;
   text-align: center;
   font-size: 3rem;
@@ -87,7 +87,7 @@ h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.75rem;
-  margin-top: .7em;
+  margin: 0;
 }
 
 img {
@@ -104,5 +104,5 @@ img {
 }
 
 .berries-second {
-  margin-top: .3em;
+  margin-top: .0;
 }
