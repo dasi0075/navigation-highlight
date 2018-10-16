@@ -39,6 +39,7 @@ main h2 {
 }
 
 main {
+  margin: .3em;
   padding: 0;
 }
 
@@ -101,6 +102,7 @@ img {
 
 .second {
   margin-top: 0;
+  padding-bottom: .4em;
 }
 
 .berries-second {
