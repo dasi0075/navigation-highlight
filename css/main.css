@@ -30,7 +30,7 @@ ul li a {
 }
 
 p {
-  color: #2f2d13
+  color: #2f2d13;
 }
 
 main h2 {
@@ -56,7 +56,6 @@ body {
 
 li {
   display: inline-block;
-  margin-bottom: .3em;
 }
 
 a {
@@ -75,7 +74,6 @@ a:hover {
 
 header {
   background-color: #ffe500;
-  padding-bottom: .1em;
   margin: 0;
 }
 
@@ -89,6 +87,7 @@ h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.75rem;
+  margin: 0;
 }
 
 img {
