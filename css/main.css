@@ -100,3 +100,11 @@ img {
 .current {
   background-color: #b20953;
 }
+
+main h2 {
+  color: #b20953;
+}
+
+.second {
+  margin-top: 0;
+}
