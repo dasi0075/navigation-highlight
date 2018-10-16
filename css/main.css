@@ -39,12 +39,12 @@ main h2 {
 }
 
 main {
-  padding: 0 .75em;
+  padding: 0;
 }
 
 nav {
   text-align: center;
-  padding: .75em;
+  padding: 0;
   font-size: 1rem;
 }
 
@@ -87,7 +87,7 @@ h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
   font-size: 1.75rem;
-  margin: 0;
+  margin-top: .7em;
 }
 
 img {
