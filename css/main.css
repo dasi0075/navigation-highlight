@@ -8,6 +8,12 @@ html {
   box-sizing: inherit;
 }
 
+header {
+  background-color: #ffe500;
+  margin-bottom: 2em;
+  padding-bottom: .4em;
+}
+
 h1 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
@@ -78,17 +84,6 @@ a:hover {
   background-color: #cc1465;
 }
 
-header {
-  background-color: #ffe500;
-  margin-bottom: 2em;
-}
-
-footer {
-  text-align: center;
-  background-color: #ffe500;
-  padding: .1em;
-}
-
 h2 {
   font-family: "Sigmar One", cursive;
   color: #b20953;
@@ -110,7 +105,8 @@ img {
   padding-bottom: .7em;
 }
 
-.berries-second {
-  margin-bottom: 2em;
-  padding-bottom: .4em;
+footer {
+  text-align: center;
+  background-color: #ffe500;
+  padding: .1em;
 }
