@@ -106,8 +106,7 @@ img {
 
 .second {
   margin-top: 0;
-  padding-bottom: .7em;
-  padding-top: 0;
+  padding: .5em 0 .8em;
 }
 
 footer {
