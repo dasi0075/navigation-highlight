@@ -26,7 +26,7 @@ h1 {
 .paragraph {
   font-family: "Sigmar One", cursive;
   color: #b20953;
-  padding-top: .2em;
+  padding-top: .5em;
 }
 
 .index {
@@ -106,7 +106,7 @@ img {
 
 .second {
   margin-top: 0;
-  padding: .5em 0 .8em;
+  padding: .5em 0 .7em;
 }
 
 footer {
