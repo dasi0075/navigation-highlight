@@ -10,7 +10,7 @@ html {
 
 header {
   background-color: #ffe500;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   padding-bottom: .4em;
 }
 
@@ -107,6 +107,7 @@ img {
 .second {
   margin-top: 0;
   padding-bottom: .9em;
+  padding-top: 0;
 }
 
 footer {
