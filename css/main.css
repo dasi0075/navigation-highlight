@@ -44,6 +44,10 @@ p {
   color: #2f2d13;
 }
 
+.text {
+  padding-bottom: .7em;
+}
+
 main h2 {
   color: #b20953;
   font-size: 1.875rem;
@@ -102,7 +106,7 @@ img {
 
 .second {
   margin-top: 0;
-  padding-bottom: .7em;
+  padding-bottom: .9em;
 }
 
 footer {
